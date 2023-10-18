@@ -8,3 +8,6 @@ In conclusion, this investigation reveals the Decision Tree algorithm as the opt
 
 
 Keywords: machine learning algorithms, stock price forecasting, trend analysis, performance evaluation, weighted average F1-score, accuracy, precision, recall, General Electric (GE), market dynamics.
+
+
+
